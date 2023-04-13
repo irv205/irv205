@@ -24,8 +24,8 @@ Passionate about technology, seeking new experiences! Always learning and explor
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/nomaschuy">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nomaschuy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/irv205">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=irv205&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
