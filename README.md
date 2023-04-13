@@ -6,8 +6,8 @@
 
 ## About me
 
-- 📲 Mobile developer (6 years)
-- 💻 Backend developer (5 years)
+- 📲 Mobile developer
+- 💻 Backend developer
 - 👨‍💻 I'm 28 years old
 
 Passionate about technology, seeking new experiences! Always learning and exploring in the exciting digital world. #TechLover #GitHubEnthusiast.
