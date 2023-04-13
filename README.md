@@ -2,10 +2,17 @@
 <h1 align="center">Hola, soy Irving G. 👋</h1>
 </div>
 
-## Sobre mi
+<img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif">
 
-- 📲 Mobile developer
--  Backend developer
+
+## About me
+
+- 📲 Mobile developer (6 years)
+- 💻 Backend developer (5 years)
+- 👨‍💻 I'm 28 years old
+
+Passionate about technology, seeking new experiences! Always learning and exploring in the exciting digital world. #TechLover #GitHubEnthusiast.
+
 
 ## Programming languages
 
