@@ -2,8 +2,10 @@
 <h1 align="center">Hola, soy Irving G. 👋</h1>
 </div>
 
+<!--
 <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif">
-
+-->
+<img src="https://i.pinimg.com/originals/90/57/8f/90578f78e0eaea8ec576d3d926205c26.gif">
 
 ## About me
 
