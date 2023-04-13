@@ -1,16 +1,18 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Hola, soy Irving G. 👋</h1>
+</div>
 
-<!--
-**irv205/irv205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mi
 
-Here are some ideas to get you started:
+- 📲 Mobile developer
+-  Backend developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Programming languages
+
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,python&theme=light)](https://skillicons.dev)
+
+## Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,androidstudio,django,flutter,git&perline=3)](https://skillicons.dev)
+
+### ⚙️ &nbsp;GitHub Analytics
