@@ -19,7 +19,7 @@ Passionate about technology, seeking new experiences! Always learning and explor
 
 ## Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,androidstudio,django,flutter,git,atom,bash,figma,firebase,flask,gitlab,gradle,heroku,idea,linux,postman,raspberrypi,vscode&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,androidstudio,django,flutter,git,atom,bash,figma,firebase,flask,gitlab,gradle,heroku,idea,linux,postman,raspberrypi,vscode&perline=9)](https://skillicons.dev)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
