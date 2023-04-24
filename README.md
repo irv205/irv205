@@ -15,11 +15,11 @@ Passionate about technology, seeking new experiences! Always learning and explor
 
 ## Programming languages
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,python&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,python,dart&theme=light)](https://skillicons.dev)
 
 ## Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,androidstudio,django,flutter,git&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,androidstudio,django,flutter,git,atom,bas,figma,firebase,flask,gitlab,gradle,heroku,idea,linux,postman,raspberrypi,vscodeh&perline=3)](https://skillicons.dev)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
