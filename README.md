@@ -23,7 +23,7 @@ Passionate about technology, seeking new experiences! Always learning and explor
 
 <p align="center">
   <a href="https://skillicons.dev">
-    [![My Skills](https://skillicons.dev/icons?i=aws,azure,androidstudio,django,flutter,git,atom,bash,figma,firebase,flask,gitlab,gradle,heroku,idea,linux,postman,raspberrypi,vscode)](https://skillicons.dev)
+    <img src="https://skillicons.dev/icons?i=aws,azure,androidstudio,django,flutter,git,atom,bash,figma,firebase,flask,gitlab,gradle,heroku,idea,linux,postman,raspberrypi,vscode" />
   </a>
 </p>
 
