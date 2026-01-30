@@ -7,7 +7,7 @@
 ## About me
 
 - 📲 Mobile developer
-- 💻 Ex Backend developer
+- 💻 Backend developer
 
 Passionate about technology, seeking new experiences! Always learning and exploring in the exciting digital world. #TechLover #GitHubEnthusiast.
 
